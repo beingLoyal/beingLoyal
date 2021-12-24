@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beingLoyal
 - 👀 I’m interested in ... [hiking, working out, coding]
-- 🌱 I’m currently learning ... [javascriipt]
+- 🌱 I’m currently learning ... [javascript]
 - 💞️ I’m looking to collaborate on ... [smartContractCreation]
 - 📫 How to reach me ... loyal.dillon@gmail.com
 
